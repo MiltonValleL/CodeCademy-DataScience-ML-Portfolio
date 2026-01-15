@@ -1,0 +1,12 @@
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignorar entornos virtuales (si creaste uno local)
+.venv/
+venv/
+env/
+
+# Ignorar datasets (Descomenta la siguiente línea si NO quieres subir los datos)
+# datasets/
