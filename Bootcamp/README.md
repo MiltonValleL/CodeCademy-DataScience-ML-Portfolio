@@ -26,8 +26,8 @@ I organize my work into specialized modules, focusing on real-world applicabilit
 ### 🔬 Featured Projects
 | Project | Technical Focus | Status |
 | :--- | :--- | :--- |
-| [**Predicting House Prices**](./Bootcamp/predicting-house-prices) | Advanced Linear Regression, Forensic EDA, Imputation Strategies | ✅ Completed |
-| [**King County Housing Price Prediction**](./Bootcamp/king-county-housing-price-prediction) | Regularized Linear Models (Lasso/Ridge), Comparative Model Benchmarking, Geospatial Feature Impact | ✅ Completed |
+| [**Predicting House Prices**](./predicting-house-prices) | Advanced Linear Regression, Forensic EDA, Imputation Strategies | ✅ Completed |
+| [**King County Housing Price Prediction**](./king-county-housing-price-prediction) | Regularized Linear Models (Lasso/Ridge), Comparative Model Benchmarking, Geospatial Feature Impact | ✅ Completed |
 | **Coming Soon: Classification Mastery** | Logistic Regression & Decision Trees | 🚧 In Progress |
 | **Coming Soon: Natural Language Processing** | Text Analysis & Sentiment Classification | 📅 Planned |
 
