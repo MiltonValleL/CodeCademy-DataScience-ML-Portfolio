@@ -85,6 +85,8 @@ The model successfully identified distinct musical profiles. Based on the centro
 └── requirements.txt                       (Dependencies)
 ```
 
+> *Note: The "dataset.csv" file contains Spotify audio metadata. Due to its size, it cannot be previewed on GitHub, but it is fully functional when the repository is cloned.*
+
 <br>
 <br>
 
