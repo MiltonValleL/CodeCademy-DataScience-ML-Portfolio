@@ -44,11 +44,19 @@ To achieve top-tier performance within constraints, I implemented:
 
 ## 💻 How to Run
 1. Clone the repository.
-2. Install dependencies: `pip install torch torchvision numpy`
-3. Run inference:
+   ```bash
+   git clone https://github.com/MiltonValleL/CodeCademy-DataScience-ML-Portfolio.git
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run inference: To test the model on random samples and verify the architecture:
    ```bash
    python predict.py
    ```
+*Note: The script automatically detects if a GPU (CUDA) is available for acceleration.*
+
 <br>
 <br>
 
