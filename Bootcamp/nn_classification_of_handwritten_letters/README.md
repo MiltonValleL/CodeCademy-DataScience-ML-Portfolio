@@ -35,10 +35,10 @@ To achieve top-tier performance within constraints, I implemented:
 
 ## 📊 Visualizations
 ### Training Dynamics
-![Training Curves](./images/training_curves.png) *Replace with your actual image path*
+![Training Curves](./images/Model_Training_Dynamics.png) 
 
 ### Confusion Matrix
-![Confusion Matrix](./images/confusion_matrix.png) *Replace with your actual image path*
+![Confusion Matrix](./images/Confusion_Matrix.png)
 
 <br>
 
