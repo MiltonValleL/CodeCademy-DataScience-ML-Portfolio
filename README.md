@@ -28,6 +28,10 @@ This portfolio is divided into two main strategic areas:
 ### 1️⃣ [Bootcamp Portfolio](./Bootcamp)
 *Focus: Intensive foundational projects and end-to-end data science workflows.*
 * **Key Highlight:** [Predicting House Prices](./Bootcamp/predicting-house-prices) - A deep dive into Linear Regression and forensic EDA.
+* **Key Highlight:** [King County Housing Price Prediction](./Bootcamp/king-county-housing-price-prediction) - Regularized Linear Models (Lasso/Ridge).
+* **Key Highlight:** [Spotify Vibe Clustering](./Bootcamp/spotify-vibe-clustering) - Categorize music tracks into distinct vibes or clusters.
+* **Key Highlight:** [NN Clasification of Handwritten Letters](./Bootcamp/nn_classification_of_handwritten_letters) - Neural network that clasify handwritten letters (EMNIST dataset).
+
 
 ### 2️⃣ [Platform Projects](./Platform-Projects)
 *Focus: Specialized assignments from the **Data Scientist: Machine Learning Specialist** career path.*
