@@ -29,7 +29,7 @@ I organize my work into specialized modules, focusing on real-world applicabilit
 | [**Predicting House Prices**](./predicting-house-prices) | Advanced Linear Regression, Forensic EDA, Imputation Strategies | ✅ Completed |
 | [**King County Housing Price Prediction**](./king-county-housing-price-prediction) | Regularized Linear Models (Lasso/Ridge), Comparative Model Benchmarking, Geospatial Feature Impact | ✅ Completed |
 | [**Spotify Vibe Clustering**](./spotify-vibe-clustering) | Unsupervised Machine Learning pipeline designed to categorize music tracks into distinct "vibes" (clusters) without using pre-existing genre labels. | ✅ Completed |
-|  [**NN_Classification_of_Handwritten_Letters**](./nn_classification_of_handwritten_letters)| build a neural network to classify handwritten letters (EMNIST dataset) from scratch, strictly adhering to a **<1,000,000 parameter limit** | ✅ Completed |
+|  [**NN Classification of Handwritten Letters**](./nn_classification_of_handwritten_letters)| Neural network build to classify handwritten letters (EMNIST dataset) from scratch, strictly adhering to a **<1,000,000 parameter limit** | ✅ Completed |
 | **Coming Soon: Spam VS. Ham Classification** | Logistic Regression & Decision Trees | 🚧 In Progress |
 | **Coming Soon: Natural Language Processing** | Text Analysis & Sentiment Classification | 📅 Planned |
 
