@@ -1,4 +1,4 @@
-# 🧠 EMNISTNet: High-Performance Handwritten Letter Classification
+# 🧠 EMNISTN: High-Performance Handwritten Letter Classification
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
