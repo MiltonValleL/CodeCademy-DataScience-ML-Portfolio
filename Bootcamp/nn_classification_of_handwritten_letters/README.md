@@ -7,9 +7,9 @@
 <br>
 
 ## 📌 Project Overview
-This project was developed for the **Codecademy Machine Learning Bootcamp Contest (Jan 2026)**. The challenge was to build a neural network to classify handwritten letters (EMNIST dataset) from scratch, strictly adhering to a **<1,000,000 parameter limit**.
+Developed for the **Codecademy ML Bootcamp Contest (Jan 2026)**, this project focused on high-efficiency Deep Learning. The challenge required building a neural network to classify handwritten letters (EMNIST) from scratch, strictly limited to <1M parameters.
 
-My solution, **EMNISTNet**, achieves **94.87% accuracy** on the held-out test set using a highly optimized CNN architecture with only **~697k parameters**.
+My architecture, EMNISTNet, is a highly optimized CNN that achieves **94.87% test accuracy with only ~697k parameters**. Key technical implementations included Label Smoothing for better generalization, Dropout for regularization, and advanced feature extraction layers. Adhering to production standards, the model prioritizes a high accuracy-to-parameter ratio, making it ideal for edge computing or resource-constrained environments.
 
 <br>
 
